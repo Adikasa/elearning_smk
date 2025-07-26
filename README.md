@@ -95,7 +95,7 @@ Untuk menjalankan aplikasi atau web ini kamu harus install XAMPP dan mempunyai s
 
 ```bash
 # Clone repository ini atau download di
-$ git clone https://github.com/syauqi/learnify.git
+$ git clone https://github.com/Adikasa/elearning_smk.git
 
 # Buat database
 Buat database dengan nama "learnify" di DMBS [phpmyadmin, dll]
