@@ -1,4 +1,4 @@
-# <h4 align="center">Website e-learning untuk membantu belajar dimana saja dan kapan saja yang dibuat dengan <a href="https://codeigniter.com/" target="_blank">Codeigniter</a>.
+# Website e-learning untuk membantu belajar dimana saja dan kapan saja yang dibuat dengan <a href="https://codeigniter.com/" target="_blank">Codeigniter</a>.
 </h4>
 
 # 💫 PROFIL ADIKASA:
